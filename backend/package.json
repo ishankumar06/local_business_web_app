@@ -13,7 +13,8 @@
   "dependencies": {
     "bcrypt": "^6.0.0",
     "cloudinary": "^2.7.0",
-    "dotenv": "^17.2.1",
+    "cors": "^2.8.5",
+    "dotenv": "^17.2.3",
     "express": "^5.1.0",
     "jsonwebtoken": "^9.0.2",
     "mongoose": "^8.17.1",
@@ -23,5 +24,7 @@
     "serverless-http": "^4.0.0",
     "stripe": "^18.4.0",
     "validator": "^13.15.15"
-  }
+  },
+  "devDependencies": {},
+  "keywords": []
 }
